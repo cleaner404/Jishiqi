@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker.xml",
+        "source": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\src\\main\\res\\layout\\timepicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\duocijishi.xml",
+        "source": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\src\\main\\res\\layout\\duocijishi.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\index.xml",
+        "source": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\src\\main\\res\\layout\\index.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cleaner208\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\cleaner208\AndroidStudioProjects\Jishiqi\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_41f10b767a4b3b5daa2a2698f5dab390254440bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cleaner208\AndroidStudioProjects\Jishiqi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2c122be850028dd1ca981d7b0ff156d0d7f3eef4">
+        <dex dex="C:\Users\cleaner208\AndroidStudioProjects\Jishiqi\app\build\intermediates\pre-dexed\debug\instant-run_3a5cf9f6aca2d63d997120877e3acf2e7c937b45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cleaner208\AndroidStudioProjects\Jishiqi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="10f0ea65471b618bd878cd276f25f990104095d0">
+        <dex dex="C:\Users\cleaner208\AndroidStudioProjects\Jishiqi\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_20804bcc21b8d4dfef11df1ce40016e9d2d1a85c.jar" />
+    </item>
+
+</items>

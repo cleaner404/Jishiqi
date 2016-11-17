@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linbtn.xml",
+        "source": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\src\\main\\res\\drawable\\linbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\startbutton.xml",
+        "source": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\src\\main\\res\\drawable\\startbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectbtn.xml",
+        "source": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\src\\main\\res\\drawable\\selectbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "C:\\Users\\cleaner208\\AndroidStudioProjects\\Jishiqi\\app\\src\\main\\res\\drawable\\wheel_val.xml"
+    }
+]
